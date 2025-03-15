@@ -1,5 +1,5 @@
 # Nguyen Tran Gia Bao (Yanji) 
-### Software Engineer | [CoOwner Code Club Vietnam](https://github.com/codeclubvn) | [Founder The FDEV](https://github.com/thefdev)
+### Software Engineer | [CoOwner Code Club Vietnam](https://github.com/codeclubvn) | [Founder The FDEV]([https://github.com/thefdev](https://discord.gg/FzaNSgMez6))
 
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
 
@@ -7,7 +7,7 @@
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
- 
+
 <img src="https://komarev.com/ghpvc/?username=yanjigb&color=blue">
 
 <!--Start Intro-->               
@@ -20,12 +20,20 @@
 - 💻 Visit my [Portfolio](https://ngtrgiabao-porfolio.vercel.app/) for more details about me.
 <!--End Intro-->
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<!--languages and tools -->   
+<div>
+  <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
- <img width="500px"  src="https://skillicons.dev/icons?i=react,js,next,html,css,py,nodejs,md,postgres,mongo,git,vscode,docker,postman,dotnet,ts,vite,cloudflare&perline=9"  />
+    <img width="500px"  src="https://skillicons.dev/icons?i=react,js,next,html,css,py,nodejs,md,postgres,mongo,git,vscode,docker,postman,dotnet,ts,vite,cloudflare&perline=9"  />
 </p>
 <br />
+</div>
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
