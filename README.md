@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=yanjigb&color=blue">
 
 <!--Start Intro-->               
-<p align="left">I am a Web Developer with a huge love for React.js, NextJS, Node.js, JavScript and REST API. </p>
+<p align="left">I am a Web Developer with a huge love for React.js, NextJS, Node.js, Javascript, Typescript and REST API. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
