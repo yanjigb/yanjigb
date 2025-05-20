@@ -66,24 +66,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/yanjigb/yanji-social">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=yanjigb&repo=yanji-social&theme=nightowl&show_owner=true" alt="yanji-social" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/yanjigb">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=yanjigb&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 <br />
 
@@ -123,17 +105,6 @@
 </a>
 </div>
 <br/>
-
-
-## ✨ Project Showcase
-* [Google Doc Clone](https://github.com/yanjigb/google-doc-clone) - Simple Google Doc with React, TypeScript, JWT, TailwindCSS, Socket.io, Nodemailer
-* [Codepen Clone](https://github.com/yanjigb/codepen-clone) - A simple code editor using React, Firebase, Redux, TypeScript
-* [Collab White Board](https://github.com/yanjigb/codepen-clone) - A white board you can draw in real time, built with React, Typescript, Socket.io
-* [Yanji Social](https://github.com/yanjigb/yanji-social) - Full-stack Social Media Platform with React, TailwindCSS, MongoDB, Socket.io
-* [Meet With Us](https://github.com/yanjigb/meet-with-us) - Google Meet Clone with React, TailwindCSS, Firebase, MongoDB, Socket.io
-* [Shoes Shop](https://ngtrgiabao.github.io/Shoes-shop/) - UI Shoes Shop with HTML, CSS, JavScript
-* [Sorting Visulizer](https://github.com/yanjigb/Sorting-Visualizer) - Simple Sorting Visualizer
-* [Yogurt Shop](https://ngtrgiabao.github.io/yogurt-shop-app/index.html) - UI Yogurt Shop with HTML, CSS, JavaScript
 
 <br/>
 
