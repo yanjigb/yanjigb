@@ -15,7 +15,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I write technical blogs, You can visit my blog site at [Linkdin](https://www.linkedin.com/in/gbao/).
+- ✍ I write technical blogs, You can visit my blog site at [Linkedin](https://www.linkedin.com/in/gbao/).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://ngtrgiabao-porfolio.vercel.app/) for more details about me.
 <!--End Intro-->
@@ -30,7 +30,7 @@
 <div>
   <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-    <img width="500px"  src="https://skillicons.dev/icons?i=react,js,next,html,css,py,nodejs,md,postgres,mongo,git,vscode,docker,postman,dotnet,ts,vite,cloudflare&perline=9"  />
+    <img width="500px"  src="https://skillicons.dev/icons?i=react,js,next,html,css,nodejs,md,prisma,mongo,git,vscode,postman,ts,vite,cloudflare&perline=9"  />
 </p>
 <br />
 </div>
