@@ -1,8 +1,6 @@
 # Nguyen Tran Gia Bao (Yanji) 
 ### Software Engineer | [CoOwner Code Club Vietnam](https://github.com/codeclubvn) | [Founder The FDEV](https://discord.gg/FzaNSgMez6)
 
-![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
