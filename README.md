@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I write technical blogs, You can visit my blog site at [Linkedin](https://www.linkedin.com/in/gbao/).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://ngtrgiabao-porfolio.vercel.app/) for more details about me.
+- 💻 Visit my [Portfolio](https://ngtrgiabao.com/) for more details about me.
 <!--End Intro-->
 
 <br />
