@@ -36,7 +36,7 @@
 <br />
  
  <!--Github stats Table--> 
-<h2 align="center"><img src="https://64.media.tumblr.com/3739b4732fe715eae5ac27346bc3157e/a76dcdaa54da5967-93/s250x400/93f54a7a373ad886875eadf35d9da7558fbdbe44.png" width="40px" height="40px" alt="pokemon"> Gɪᴛʜᴜʙ Sᴛᴀᴛs <img src="https://64.media.tumblr.com/3739b4732fe715eae5ac27346bc3157e/a76dcdaa54da5967-93/s250x400/93f54a7a373ad886875eadf35d9da7558fbdbe44.png" width="40px" height="40px" alt="pokemon"></h2>
+<h2 align="center"><img src="https://cdn.shopify.com/s/files/1/0955/9595/4486/files/36912-redknight-3769881934.png?v=1781582434" width="40px" height="40px" alt="pokemon"> Gɪᴛʜᴜʙ Sᴛᴀᴛs <img src="https://cdn.shopify.com/s/files/1/0955/9595/4486/files/36912-redknight-3769881934.png?v=1781582434" width="40px" height="40px" alt="pokemon"></h2>
 
 <table width="100%">
   <tr>
@@ -61,7 +61,7 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center"><img src="https://64.media.tumblr.com/3739b4732fe715eae5ac27346bc3157e/a76dcdaa54da5967-93/s250x400/93f54a7a373ad886875eadf35d9da7558fbdbe44.png" width="40px" height="40px" alt="pokemon">  Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ <img src="https://64.media.tumblr.com/3739b4732fe715eae5ac27346bc3157e/a76dcdaa54da5967-93/s250x400/93f54a7a373ad886875eadf35d9da7558fbdbe44.png" width="40px" height="40px" alt="pokemon"> </h2>
+<h2 align="center"><img src="https://cdn.shopify.com/s/files/1/0955/9595/4486/files/36912-redknight-3769881934.png?v=1781582434" width="40px" height="40px" alt="pokemon">  Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ <img src="https://cdn.shopify.com/s/files/1/0955/9595/4486/files/36912-redknight-3769881934.png?v=1781582434" width="40px" height="40px" alt="pokemon"> </h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanjigb&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
