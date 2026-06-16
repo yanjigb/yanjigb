@@ -99,7 +99,7 @@
 </a>
   
 <a href="mailto:ngtrgiabao251002@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=ngtrgiabao251002@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=yanji.notification@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
