@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="30%" src="https://cdn.shopify.com/s/files/1/0955/9595/4486/files/the-logo-for-the-team-is-a-red-and-black-knight-free-png-4162814496.png?v=1781582242">
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=yanjigb&color=blue">
