@@ -1,5 +1,5 @@
 # Nguyen Tran Gia Bao (Yanji) 
-### Software Engineer | [CoOwner Code Club Vietnam](https://github.com/codeclubvn) | [Founder The FDEV](https://discord.gg/FzaNSgMez6)
+### Red Team Operator | [CoOwner Code Club Vietnam](https://github.com/codeclubvn) | [Founder The FDEV](https://discord.gg/FzaNSgMez6)
 
 <!--Night Owl image-->
 <div>
@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=yanjigb&color=blue">
 
 <!--Start Intro-->               
-<p align="left">I am a Web Developer with a huge love for React.js, NextJS, Node.js, Javascript, Typescript and REST API. </p>
+<p align="left">I am a Web Developer switching to Red Team Operator. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -28,18 +28,11 @@
 <div>
   <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-    <img width="500px"  src="https://skillicons.dev/icons?i=react,js,next,html,css,nodejs,md,prisma,mongo,git,vscode,postman,ts,vite,cloudflare&perline=9"  />
+    <img width="500px"  src="https://skillicons.dev/icons?i=kali,linux,nim,powershell,bash,python,js,obsidian&perline=9"  />
 </p>
 <br />
 </div>
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/yanjigb/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yanjigb&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
 <br />
  
  <!--Github stats Table--> 
@@ -74,9 +67,6 @@
 </div>
 
 ---
-
-## 🍍Leetcode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/ngtrgiabao251002?theme=dark&font=source_code_pro&extension=null)
 
 <br/>
 
